@@ -6,6 +6,8 @@ Tested up to: 4.6
 Stable tag: 1.0.5
 License: GPL
 
+demo modify
+
 A simple text slider plugin for several vertical textslider via shortcode.
 
 == Description ==
