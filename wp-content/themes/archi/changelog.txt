@@ -1,0 +1,89 @@
+06/10/2015
+- Update Visual Composer 4.7.4
+
+14/10/2015
+- Added Background image sub header for each service single page.
++ file edit : meta-boxes.php, single-service.php
+
+14/12/2015 - Version 2.3
+- Update font-awesome latest version 4.5.0
+- Update Visual Composer latest version 4.9
+- Update files compatible with Visual Composer latest version 4.9 : 
+  + vc_column.php, vc_row.php
+  + style.css, light.css, woocommerce.css
+- Update theme compatible with WordPress latest version 4.4
+
+24/12/2015 - Version 2.4
+- Update Visual Composer latest version 4.9.1
+- Update Revolution Slider latest version 5.1.5
+- Added new layout header side navigation
+- Update all demo content 
+- Added Option for show portfolio by load ajax content or link to single portfolio page in theme option
+- Added option for header normal or side navigation in theme option
+- Update document guide
+- Files update : functions.php, header.php, header-onepage.php, header-landing.php, footer.php, footer-landing.php, designesia.js, sample-config.php
+
+
+18/01/2016 - Version 2.5
+- Update Visual Composer latest version 4.9.2
+- Added new element: OT Testimonial Grid, OT Services Grid
+- Files edit : functions.php, shortcode.php, vc_shortcode.php, header-sidenav.css, designesia.js
+
+28/01/2016 - Version 2.5.1
+- Files update : shortcode.php, vc_shortcode.php, style.css, sample-config.php, archive-portfolio.php, taxonomy-categories.php
+- New added options on element OT Portfolio: 5 columns, 6 columns.
+- Update demo content files.
+- Update Woocommerce latest version 2.5.1
+
+15/02/2016 - Version 2.5.1.4
+- Update Visual Composer latest version 4.10
+- Update for translate All plugins : OT Portfolios, OT Process, OT Testimonials, OT Slider Text, OT Services.
+- Fixed some bugs in file : functions.php, shortcode.php
+- New Added : Portfolio Style 2 (OT Portfolio Filter 2)
+
+15/03/2016 - Version 2.5.2
+- Revolution Slider latest version 5.2.1
+- Visual Composer latest version 4.11
+- Fixed menu item overlap on breadcrumb sub-header of all page.
+- Fixed button next, previous revolution slider
+- Fixed image size use add_image_size function of wordpress, remove crop image by bfi_thumb
+- Add new image next, previous revolution slider in folder archi/images
+- Files update functions.php, shortcode.php, archive-portfolio.php, archive-service.php, taxonomy-categories.php, archi/css/rev-settings.css
+
+06/04/2016 - Version 2.5.3
+- Revolution Slider latest version 5.2.4
+- Visual Composer latest version 4.11.1
+- New added Side Navigation Light version
+- New added Projects layout style 2 with title, category below image.
+
+08/04/2016 - Version 2.5.3.1
+- Improve side navigation look good like as demo site.
+- Edit Shortcode Element Gmap can be select dark version or light version
+- Update plugin one click import demo content
+
+14/04/2016 - Version 2.5.3.2
+- Update Revolution Slider latest version 5.2.4.1
+- Update Visual Composer latest version 4.11.2
+- Update Theme compatible with WordPress 4.5
+
+20/04/2016 - Version 2.5.3.3
+- Update Visual Composer latest version 4.11.2.1
+- Update Revolution Slider latest version 5.2.5
+- Fixed bug : add css code in "Archi Options -> Styling Options -> CSS Code" work now.
+
+03/05/2016 - Version 2.5.4
+- Update Font Awesome 4.6.1
+- Improve style button back to top
+- Edit some files : functions.php, header*.php , footer*.php, style.css
+
+18/05/2016 - Version 2.5.5
+- Update Font Awesome 4.6.3
+- Update Revolution Slider latest version 5.2.5.1
+- Fixed bug : change footer background color.
+- New added option on/off sub-page (sub-page have : title page, breadcrumb)
+- Remove folder "ReduxFramework" in folder Archi theme from version 2.5.5
+- Require install "ReduxFramework" plugin from version 2.5.5
+- Edit some files : color.php, sample-config.php, style.css, all files.
+
+
+

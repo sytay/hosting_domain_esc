@@ -1,0 +1,40 @@
+body{
+    font-weight: normal !important;
+}
+p{
+   font-weight: normal !important;
+}
+a{
+   font-weight: normal !important;
+}
+.backgroundfix{
+    background-attachment: fixed;
+}
+.color{
+    color:black;
+}
+.center{
+    text-align: center;
+}
+.hoverclass:hover{
+   transform: scale(1.3);
+   transition: .3s ease all;
+   color: red;
+}
+.hoverclass{
+     transition: .3s ease all;
+     cursor:poiter;
+}
+
+.hovertable:hover{
+   transform: scale(1.1);
+   transition: .3s ease all;
+   color: red;
+}
+.hovertable{
+     transition: .3s ease all;
+     cursor:poiter;
+}
+.small{
+    font-weight: normal;
+}
