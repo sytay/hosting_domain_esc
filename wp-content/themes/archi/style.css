@@ -60,6 +60,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 /* ================================================== */
 html{
     background:#000000 !important;
+	list-style: none;
 }
 body {
     font-family: "Open Sans",Arial, Helvetica, sans-serif;
